@@ -1,0 +1,31 @@
+#ifndef XROAR_CONFIG_H_
+#define XROAR_CONFIG_H_
+
+//#undef HAVE_BIG_ENDIAN
+#define HAVE_BIG_ENDIAN
+#undef NEED_STRSEP
+#define HAVE_ZLIB
+#undef HAVE_GLIB2
+#undef HAVE_GTK2
+#undef HAVE_GTKGL
+#define HAVE_SDL
+#undef HAVE_SDLGL
+#undef HAVE_CLI
+#undef HAVE_COCOA
+#undef HAVE_ALSA_AUDIO
+#undef HAVE_OSS_AUDIO
+#undef HAVE_PULSE_AUDIO
+#undef HAVE_SUN_AUDIO
+#undef HAVE_MACOSX_AUDIO
+#undef HAVE_JACK_AUDIO
+#define HAVE_NULL_AUDIO
+#undef HAVE_LINUX_JOYSTICK
+#undef HAVE_SNDFILE
+#undef WINDOWS32
+#undef HAVE_PTHREADS
+#undef WANT_GDB_TARGET
+#undef TRACE
+#undef FAST_SOUND
+#undef LOGGING
+
+#endif  /* def XROAR_CONFIG_H_ */

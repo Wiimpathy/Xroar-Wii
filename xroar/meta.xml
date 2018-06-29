@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <app version="1">
+   <name>XRoarWii</name>
+   <coder>Wiimpathy</coder>
+   <version>0.4</version>
+   <release_date>20170519</release_date>
+   <short_description>Tandy CoCo/Dragon32 emulator</short_description>
+   <long_description>This is a port of XRoar(0.24), a Tandy CoCo/Dragon32 emulator.
+Here are the menu controls and special buttons used in-game.
+
+ Wiimote:
+
+ A/2    : Confirm
+ B/1    : Back
+ -      : Open virtual keyboard
+ +      : Select joystick mode/toggle option
+ Home   : Open main menu/help
+
+ Classic controller:
+
+ A      : Confirm
+ B      : Back
+ -      : Open virtual keyboard
+ +      : Select joystick mode/toggle option
+ Home   : Open main menu/help
+
+ GameCube controller:
+
+ A      : Confirm
+ B      : Back
+ L      : Toggle option
+ Z      : Select joystick mode
+ Start  : Open main menu/help
+
+See the Readme/manual for more information.
+</long_description>
+<no_ios_reload/>
+ </app>
+
